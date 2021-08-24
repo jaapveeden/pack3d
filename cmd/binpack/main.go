@@ -12,9 +12,9 @@ import (
 )
 
 const (
-	SizeX = 165
-	SizeY = 165
-	SizeZ = 320
+	SizeX = 1220
+	SizeY = 2440
+	SizeZ = 18
 )
 
 var Rotations []fauxgl.Matrix
